@@ -1,0 +1,2 @@
+genotype,sex,age,which_eye,quadrant,cell_type,animal_id,peak_FR,baseline_FR,min_spikes_ON,min_spikes_OFF,min_size_ON,min_size_OFF,peak_size_ON,peak_size_OFF,peak_spikes_ON,peak_spikes_OFF,half_peak_size,SI
+Trarg1(Tusc5-eGFP/WT),Male,39.1429,Right,VN,Local edge detector,DJID_1862,166.666666666667,0,0,0,30,30,160,160,50.3333333333333,38,NaN,NaN

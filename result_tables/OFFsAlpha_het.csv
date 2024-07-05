@@ -1,0 +1,4 @@
+genotype,sex,age,which_eye,quadrant,cell_type,animal_id,peak_FR,baseline_FR,min_spikes_ON,min_spikes_OFF,min_size_ON,min_size_OFF,peak_size_ON,peak_size_OFF,peak_spikes_ON,peak_spikes_OFF,half_peak_size,SI
+Trarg1(Tusc5-eGFP/WT),Male,21.8571,Right,DT,OFF sustained alpha,DJID_2828,266.666666666667,50.6111,20.6666666666667,10.6666666666667,224,858,614,115,90,49.3333333333333,300.307692307692,NaN
+Trarg1(Tusc5-eGFP/WT),Female,39.7143,Right,DT,OFF sustained alpha,DJID_2249,300,107.167,9,109,314,42,30,439,91.6666666666667,143,660.5,NaN
+Trarg1(Tusc5-eGFP/WT),Female,34.7143,Left,VT,OFF sustained alpha,DJID_2259,150,40.375,11,34.75,115,439,1200,160,39,51.5,197.133333333333,NaN

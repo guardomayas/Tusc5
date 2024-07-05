@@ -1,0 +1,8 @@
+genotype,sex,age,which_eye,quadrant,cell_type,animal_id,peak_FR,baseline_FR,min_spikes_ON,min_spikes_OFF,min_size_ON,min_size_OFF,peak_size_ON,peak_size_OFF,peak_spikes_ON,peak_spikes_OFF,half_peak_size,SI
+Trarg1(Tusc5-eGFP/Tusc5-eGFP),Male,8,Left,VT,ON transient small RF,DJID_1582,400,0,0.666666666666667,0,30,30,160,30,26.3333333333333,0,NaN,NaN
+Trarg1(Tusc5-eGFP/Tusc5-eGFP),Male,19.4286,Right,VN,ON transient small RF,DJID_1583,400,0.333333,3,0,1200,42,160,30,26.6666666666667,0.333333333333333,1969.5,NaN
+Trarg1(Tusc5-eGFP/Tusc5-eGFP),Male,6.5714,Left,DN,ON transient small RF,DJID_1589,466.666666666667,0,11,0,30,30,115,30,53.6666666666667,0,NaN,NaN
+Trarg1(Tusc5-eGFP/Tusc5-eGFP),Male,6.5714,Left,DN,ON transient small RF,DJID_1589,433.333333333333,0.0555556,12,0,614,30,160,1200,38.6666666666667,0.333333333333333,1401.5,NaN
+Trarg1(Tusc5-eGFP/Tusc5-eGFP),Female,45.8571,Right,VT,ON transient small RF,DJID_1744,233.333333333333,0,0,0.666666666666667,30,439,1200,160,1,27.6666666666667,NaN,NaN
+Trarg1(Tusc5-eGFP/Tusc5-eGFP),Male,25,Right,VN,ON transient small RF,DJID_3052,300,0,0.333333333333333,0,858,30,42,30,19.6666666666667,0,919,NaN
+Trarg1(Tusc5-eGFP/Tusc5-eGFP),Male,63,Right,DN,ON transient small RF,DJID_2787,200,0,0,0,30,30,314,224,13.6666666666667,0.333333333333333,NaN,NaN
